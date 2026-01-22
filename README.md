@@ -11,6 +11,4 @@ If they are in your way - bomb them! :)
 
 ![Tancheton Demo (3)](https://github.com/user-attachments/assets/486ce720-b334-47e6-97e8-2cc6593901b1)
 
-Full demo at 
-
-[![Demo Video](https://img.youtube.com/vi/7A_epRuTPAE/0.jpg)](https://www.youtube.com/watch?v=7A_epRuTPAE)
+Full demo at [demo](https://www.youtube.com/watch?v=7A_epRuTPAE)
